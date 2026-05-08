@@ -41,9 +41,7 @@ HSE University
 
 ## Conference Materials
 
-### Topology of 3-Manifolds Supporting
-### Nonsingular Morse--Smale Flows
-### with One Saddle Orbit
+### Topology of 3-Manifolds Supporting Nonsingular Morse--Smale Flows with One Saddle Orbit
 
 - [Slides (PDF)](NMS-flows-with-single-saddle-2026.pdf)
 
@@ -51,9 +49,9 @@ HSE University
 
 ## Related Papers
 
-- *Nonsingular Flows with a Twisted Saddle Orbit on Orientable 3-Manifolds*
-- *Topology of Ambient Manifolds of Nonsingular Flows with Three Nontwisted Orbits*
-- *Non-singular Morse--Smale Flows on n-Manifolds with Attractor--Repeller Dynamics*
+- [*Nonsingular Flows with a Twisted Saddle Orbit on Orientable 3-Manifolds*](https://publications.hse.ru/articles/536018689)
+- [*Topology of Ambient Manifolds of Nonsingular Flows with Three Nontwisted Orbits*](https://publications.hse.ru/articles/863798879)
+- [*Non-singular Morse--Smale Flows on n-Manifolds with Attractor--Repeller Dynamics*](https://publications.hse.ru/articles/536018689)
 
 ---
 
