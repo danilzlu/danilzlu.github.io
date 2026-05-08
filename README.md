@@ -1,7 +1,4 @@
-# README.md for GitHub Pages contact repository
-
-
-# Danila Shubin
+# GitHub Pages contact repository
 
 ## Topology and Dynamical Systems
 
