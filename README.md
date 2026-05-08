@@ -1,6 +1,6 @@
 # README.md for GitHub Pages contact repository
 
-```markdown
+
 # Danila Shubin
 
 ## Topology and Dynamical Systems
@@ -73,5 +73,5 @@ Current directions of research:
 This page is intended as a lightweight mobile-friendly conference page.
 
 Feel free to contact me if you are interested in related problems.
-```
+
 
