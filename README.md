@@ -66,6 +66,11 @@ Current directions of research:
 
 ---
 
+## Socials
+
+- Telegram: https://t.me/danilaschubin
+- WeChat: wxid_8crw6cmyx7ft12
+
 ## QR Access
 
 This page is intended as a lightweight mobile-friendly conference page.
