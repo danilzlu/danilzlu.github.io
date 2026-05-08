@@ -29,13 +29,13 @@ schub.danil@yandex.ru
 Laboratory of Dynamical Systems and Applications,
 HSE University
 
-[Laboratory webpage]([https://example-lab-url](https://nnov.hse.ru/bipm/dsa/))
+[Laboratory webpage](https://nnov.hse.ru/bipm/dsa/)
 
 ---
 
 ## Publications
 
-[List of publications at HSE University]([https://example-hse-profile-url](https://www.hse.ru/org/persons/225595100#sci))
+[List of publications at HSE University](https://www.hse.ru/org/persons/225595100#sci)
 
 ---
 
