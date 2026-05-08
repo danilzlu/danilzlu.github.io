@@ -45,7 +45,7 @@ HSE University
 ### Nonsingular Morse--Smale Flows
 ### with One Saddle Orbit
 
-- [Slides (PDF)](slides.pdf)
+- [Slides (PDF)](NMS-flows-with-single-saddle-2026.pdf)
 
 ---
 
